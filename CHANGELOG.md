@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1-alpha2](https://github.com/Apadmi-Engineering/Mockzilla/compare/v1.1.0-alpha2...v1.1.1-alpha2) (2023-10-04)
+
+
+### Bug Fixes
+
+* wrong schema for monitor-logs response ([0d4cf22](https://github.com/Apadmi-Engineering/Mockzilla/commit/0d4cf22c008c905e39bc7ee3789c6a08143445ad))
+
 ## [1.1.0-alpha2](https://github.com/Apadmi-Engineering/Mockzilla/compare/v1.0.1-alpha2...v1.1.0-alpha2) (2023-09-29)
 
 
